@@ -6,8 +6,11 @@ Com 9 anos de experiência em operações críticas no Aeroporto de Guarulhos, f
 
 ---
 
-### 🏛️ Projeto em Destaque: Simulador de Renda High Level
-Desenvolvido com suporte técnico do **CEFET**, este simulador utiliza lógica de precisão para integração de benefícios e bolsas de capacitação.
+### 🏛️ Simulador de Renda v2.0 💰 
+
+​Ferramenta financeira de alta precisão desenvolvida em Python para cálculos de ROI e gestão de capital.
+
+
 
 [Aceder ao Código do Simulador](https://github.com/dochajosilerio-sys/simulador-renda-)
 
