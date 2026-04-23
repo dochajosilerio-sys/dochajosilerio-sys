@@ -1,6 +1,6 @@
 # Josilério Docha
 
-Com 9 anos de experiência em operações críticas no Aeroporto de Guarulhos, foco minha atuação em Desenvolvimento Back-End e Engenharia de Dados.
+Com 9 anos de experiência em operações no Aeroporto de Guarulhos, foco minha atuação em Desenvolvimento Back-End e Engenharia de Dados.
 
 ---
 
