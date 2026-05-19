@@ -10,7 +10,10 @@ Com 9 anos de experiência em operações no Aeroporto de Guarulhos, foco minha 
 
 ### 🎓 Educação & Certificações
 
-* **Letramento Digital** — SENAI
+* **Técnico em Desenvolvimento de Sistemas** — SENAI Betim (Em andamento)
+  * Carga Horária Total: 1.200 Horas (960h Presenciais | 240h EAD)
+  * Duração: 18 meses (Foco em Lógica, Estrutura de Dados e Back-End)
+
 * **Bootcamp Back-End & Engenharia de Dados** — Digital Innovation One (DIO)
 
 
